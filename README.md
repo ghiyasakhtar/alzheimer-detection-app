@@ -72,5 +72,5 @@ alzheimer-detection-app/
 ### Other Resources
 * **Deployed Site:** [aizheimer.streamlit.app/](https://aizheimer.streamlit.app/)
 * **Dataset:** [Augmented Alzheimer MRI Dataset | Kaggle](https://www.kaggle.com/datasets/uraninjo/augmented-alzheimer-mri-dataset)
-* **Video Presentation:** [YouTube Link (Unlisted)](https://)
+* **Video Presentation:** [YouTube Link (Unlisted)](https://youtu.be/fiFNzQ26de4)
 * **Presentation Slides:** [Presentation - AI for Alzheimer’s Detection | Canva](https://www.canva.com/design/DAGqOReI5BU/QHycU29GQMjtF-OenbprfA/edit?utm_content=DAGqOReI5BU&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
