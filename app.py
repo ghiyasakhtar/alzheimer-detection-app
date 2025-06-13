@@ -101,7 +101,7 @@ with st.sidebar:
             Aplikasi ini menggunakan model Convolutional Neural Network (CNN) untuk mengklasifikasikan kondisi Alzheimer 
             berdasarkan citra MRI otak. Dikembangkan untuk membantu deteksi dini Alzheimer melalui analisis gambar medis.
         </p>
-        <p style='color: #555; font-size: 13px;'><strong>Kelas:</strong> Normal, Early Mild Cognitive Impairment, Late Mild Cognitive Impairment, Alzheimer</p>
+        <p style='color: #555; font-size: 13px;'><strong>Kelas:</strong> Mild Demented, Moderate Demented, Non Demented, Very Mild Demented</p>
     </div>
     """, unsafe_allow_html=True)
 
