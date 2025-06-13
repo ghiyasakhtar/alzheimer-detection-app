@@ -50,9 +50,9 @@ if uploaded_file is not None:
 
     # Mapping warna background berdasarkan label
     color_map = {
-        "Normal": "#2ecc71",                                # hijau
         "Early Mild Cognitive Impairment": "#f1c40f",       # kuning
         "Late Mild Cognitive Impairment": "#e67e22",        # oranye
+        "Normal": "#2ecc71",                                # hijau
         "Alzheimer": "#e74c3c"                              # merah
     }
 
