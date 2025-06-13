@@ -50,12 +50,12 @@ if uploaded_file is not None:
 
     # Mapping warna background berdasarkan label
     color_map = {
-        "Early Mild Cognitive Impairment": "#f1c40f",       # kuning
-        "Late Mild Cognitive Impairment": "#e67e22",        # oranye
-        "Normal": "#2ecc71",                                # hijau
-        "Alzheimer": "#e74c3c"                              # merah
+        "Mild Demented": "#e67e22",           # oranye
+        "Very Mild Demented": "#f1c40f",      # kuning
+        "Non Demented": "#2ecc71",            # hijau
+        "Moderate Demented": "#e74c3c"        # merah
     }
-
+    
     bg_color = color_map.get(label, "#95a5a6")  # default abu-abu jika label tidak dikenali
 
     # Tampilkan hasil prediksi
