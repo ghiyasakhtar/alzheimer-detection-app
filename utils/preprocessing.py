@@ -28,7 +28,12 @@ def preprocess_image(image_file):
 
 # Prediksi dari model
 def predict(model, preprocessed_image):
-    class_names = ["Normal", "EMCI", "LMCI", "Alzheimer"]
+    class_names = [
+        "Mild Demented",
+        "Moderate Demented",
+        "Non Demented",
+        "Very Mild Demented"
+    ]
     probabilities = model.predict(preprocessed_image)[0]  # Ambil baris pertama
     predicted_index = np.argmax(probabilities)
     label = class_names[predicted_index]
