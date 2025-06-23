@@ -5,9 +5,9 @@ from PIL import Image
 import time
 import os
 
-logo_icon_url = "https://raw.githubusercontent.com/ghiyasakhtar/alzheimer-test/refs/heads/main/logo.png"
-warning_icon_url = "https://raw.githubusercontent.com/ghiyasakhtar/alzheimer-test/refs/heads/main/icons8-warning-90.png"
-info_icon_url = "https://raw.githubusercontent.com/ghiyasakhtar/alzheimer-test/refs/heads/main/icons8-about-384.png"
+logo_icon_url = "https://raw.githubusercontent.com/ghiyasakhtar/alzheimer-detection-app/refs/heads/main/assets/logo.png"
+warning_icon_url = "https://raw.githubusercontent.com/ghiyasakhtar/alzheimer-detection-app/refs/heads/main/assets/warning.png"
+info_icon_url = "https://raw.githubusercontent.com/ghiyasakhtar/alzheimer-detection-app/refs/heads/main/assets/about.png"
 
 
 # Konfigurasi halaman
